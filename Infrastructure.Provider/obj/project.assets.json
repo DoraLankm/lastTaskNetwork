@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\darsh\\.nuget\\packages\\": {}
+    "C:\\Users\\Daria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\Infrastructure.Provider\\Infrastructure.Provider.csproj",
+      "projectUniqueName": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\Infrastructure.Provider.csproj",
       "projectName": "Infrastructure.Provider",
-      "projectPath": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\Infrastructure.Provider\\Infrastructure.Provider.csproj",
-      "packagesPath": "C:\\Users\\darsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\Infrastructure.Provider\\obj\\",
+      "projectPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\Infrastructure.Provider.csproj",
+      "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\darsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,14 +47,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Daria\\AppData\\Roaming\\MirtekNuget": {},
+        "\\\\file-server\\NuGet\\MirtekNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj": {
-              "projectPath": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj"
+            "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj": {
+              "projectPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj"
             }
           }
         }
@@ -63,6 +65,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -84,7 +91,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

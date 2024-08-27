@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj": {}
+    "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj": {
+    "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj",
         "projectName": "AppContracts",
-        "projectPath": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\AppContracts.csproj",
-        "packagesPath": "C:\\Users\\darsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darsh\\source\\repos\\ConsoleApp22\\AppContacts\\obj\\",
+        "projectPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\AppContracts.csproj",
+        "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\darsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Daria\\AppData\\Roaming\\MirtekNuget": {},
+          "\\\\file-server\\NuGet\\MirtekNuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +36,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09D6225-87D8-404E-8410-ED856A678F33}|Infrastructure.Persistancies\\Infrastructure.Persistancies.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\infrastructure.persistancies\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09D6225-87D8-404E-8410-ED856A678F33}|Infrastructure.Persistancies\\Infrastructure.Persistancies.csproj|solutionrelative:infrastructure.persistancies\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\core\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|solutionrelative:core\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\core\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|solutionrelative:core\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\appcontacts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|solutionrelative:appcontacts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\core\\chatbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF0BF94-B8EE-45AC-B495-DC17DC4DD0B7}|Core\\Core.csproj|solutionrelative:core\\chatbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D443FF1-5604-424D-A9D2-831FBB4FF598}|Infrastructure.Provider\\Infrastructure.Provider.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\infrastructure.provider\\receiveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D443FF1-5604-424D-A9D2-831FBB4FF598}|Infrastructure.Provider\\Infrastructure.Provider.csproj|solutionrelative:infrastructure.provider\\receiveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D443FF1-5604-424D-A9D2-831FBB4FF598}|Infrastructure.Provider\\Infrastructure.Provider.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\infrastructure.provider\\messagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D443FF1-5604-424D-A9D2-831FBB4FF598}|Infrastructure.Provider\\Infrastructure.Provider.csproj|solutionrelative:infrastructure.provider\\messagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\appcontacts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|solutionrelative:appcontacts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\appcontacts\\extensions\\messageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CFDB51-7198-467D-85C4-AC75205779DC}|AppContacts\\AppContracts.csproj|solutionrelative:appcontacts\\extensions\\messageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9391BA23-8BED-4021-91AE-B4BFBE59730D}|ConsoleApp22\\App.csproj|c:\\users\\daria\\desktop\\lasttask\\lasttasknetwork\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9391BA23-8BED-4021-91AE-B4BFBE59730D}|ConsoleApp22\\App.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Persistancies\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistancies\\Class1.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Persistancies\\Class1.cs",
+              "RelativeToolTip": "Infrastructure.Persistancies\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:16:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiveResult.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\ReceiveResult.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Provider\\ReceiveResult.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\ReceiveResult.cs",
+              "RelativeToolTip": "Infrastructure.Provider\\ReceiveResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:39:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\Server.cs",
+              "RelativeDocumentMoniker": "Core\\Server.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\Server.cs",
+              "RelativeToolTip": "Core\\Server.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatBase.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\ChatBase.cs",
+              "RelativeDocumentMoniker": "Core\\ChatBase.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\ChatBase.cs",
+              "RelativeToolTip": "Core\\ChatBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\Client.cs",
+              "RelativeDocumentMoniker": "Core\\Client.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Core\\Client.cs",
+              "RelativeToolTip": "Core\\Client.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageSource.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\MessageSource.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Provider\\MessageSource.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\Infrastructure.Provider\\MessageSource.cs",
+              "RelativeToolTip": "Infrastructure.Provider\\MessageSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:02.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\Message.cs",
+              "RelativeDocumentMoniker": "AppContacts\\Message.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\Message.cs",
+              "RelativeToolTip": "AppContacts\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\User.cs",
+              "RelativeDocumentMoniker": "AppContacts\\User.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\User.cs",
+              "RelativeToolTip": "AppContacts\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\Extensions\\MessageExtensions.cs",
+              "RelativeDocumentMoniker": "AppContacts\\Extensions\\MessageExtensions.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\AppContacts\\Extensions\\MessageExtensions.cs",
+              "RelativeToolTip": "AppContacts\\Extensions\\MessageExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\ConsoleApp22\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\LastTask\\lastTaskNetwork\\ConsoleApp22\\Program.cs",
+              "RelativeToolTip": "ConsoleApp22\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:09:03.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
