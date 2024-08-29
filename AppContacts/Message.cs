@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +19,19 @@ namespace AppContacts
         public Command Command { get; set; } = Command.None;
 
         public IEnumerable<User> Users { get; set; } = [];
+
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+        public static Message FromDomain(MessageEntity entity)
+        {
+            return new Message
+            {
+                Id = entity.Id,
+                SenderId = entity.SenderId,
+                RecepentId = entity.RecepientId,
+                CreatedAt = entity.CreateAt
+            };
+        }
 
     }
 

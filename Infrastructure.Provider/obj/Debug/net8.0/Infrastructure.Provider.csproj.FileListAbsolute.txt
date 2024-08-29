@@ -1,0 +1,5 @@
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.AssemblyInfo.cs
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.sourcelink.json

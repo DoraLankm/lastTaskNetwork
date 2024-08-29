@@ -1,0 +1,15 @@
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\bin\Debug\net8.0\Infrastructure.Persistancies.deps.json
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\bin\Debug\net8.0\Infrastructure.Persistancies.runtimeconfig.json
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\bin\Debug\net8.0\Infrastructure.Persistancies.dll
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\bin\Debug\net8.0\Infrastructure.Persistancies.pdb
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.AssemblyInfo.cs
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.sourcelink.json
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.dll
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\refint\Infrastructure.Persistancies.dll
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.pdb
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\Infrastructure.Persistancies.genruntimeconfig.cache
+C:\Users\darsh\source\repos\ConsoleApp22\Infrastructure.Persistancies\obj\Debug\net8.0\ref\Infrastructure.Persistancies.dll
